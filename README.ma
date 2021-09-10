@@ -1,11 +1,10 @@
-body {
-  background-color: lightblue;
-}
+<!DOCTYPE html>
+<html>
+<title>HTML Tutorial</title>
+<body>
 
-h1 {
-  color: white;
-  text-align: center;
-}
-body {
-  background-color: lightblue;
-}
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
